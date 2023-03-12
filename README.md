@@ -1,1 +1,2 @@
-"""basically a timesaving program which takes you to a site containig a sample paper of desired subject and set number on the basis of user input"""
+This program is just for my convinience really, It may not help you at all.
+It loads a site from the internet on the basis of user input
